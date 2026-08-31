@@ -42,3 +42,5 @@ Allumeria 使用固定的 512x512 PNG 字模，并直接以字符码位定位字
 - mods\Allumeria-zhCN-fontpack\ui-zh-CN.map：主菜单、子菜单、暂停菜单和加载提示翻译。
 - mods\Allumeria-zhCN-fontpack\glyph-zh-CN.map：可读中文与游戏字形编码的映射。
 - mods\Allumeria-zhCN-fontpack\res\textures\font： PNG 字体图集。
+
+<img width="1264" height="681" alt="3516590_40" src="https://github.com/user-attachments/assets/bf531a02-5c0c-49e1-b0d7-b27f8c3a8018" />
